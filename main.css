@@ -1,3 +1,7 @@
+html,body {
+  height: 100%;
+}
+
 .jumbotron {
   text-align: center;
   background: none;
@@ -47,6 +51,11 @@ h5.modal-title {
   width: 50%;
 }
 
+.footer {
+  margin-bottom:0;
+}
+
+
 .footer-dark {
   background-color: #3c3d41;
  padding: 60px 40px;
@@ -55,4 +64,8 @@ h5.modal-title {
  border-bottom-right-radius: 6px;
  border-top-left-radius: 0px;
  border-bottom-left-radius: 6px;
+}
+
+.footerImg {
+  padding: 10px;
 }
