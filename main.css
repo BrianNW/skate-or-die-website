@@ -76,7 +76,12 @@ h5.modal-title {
   color: #3b5998;
 }
 
-.fa-google-plus {
+.fa-google-plus-g {
   color: #c32f10;
   padding:15px;
+}
+
+.fa-instagram {
+  padding:15px;
+  color: #fff;
 }
